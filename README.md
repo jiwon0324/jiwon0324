@@ -35,7 +35,7 @@ I'm a passionate **developer** who loves clean code and creative solutions.
 
 ### 🔗 Social
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wonjj0324/)
 
 
 

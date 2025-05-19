@@ -13,7 +13,8 @@ I'm a passionate **developer** who loves clean code and creative solutions.
 
 - JAVA 17
 - SPRING & SPRING BOOT
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript
+- Tailwind CSS
 - React / Node.js
 - MySQL
 - Git & GitHub  

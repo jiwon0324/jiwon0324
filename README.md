@@ -12,7 +12,7 @@ I'm a passionate **developer** who loves clean code and creative solutions.
 ### 🛠 Tech Stack
 
 - JAVA 17
-- SPRING / SPRING BOOT
+- SPRING & SPRING BOOT
 - HTML / CSS / JavaScript  
 - React / Node.js
 - MySQL
